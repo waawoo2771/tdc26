@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: VivenMap
+  m_EditorClassIdentifier: 
+  m_GroupName: VivenMap
+  m_GUID: 6527f1360a9ab7844b757428ab4b3623
+  m_SerializeEntries:
+  - m_GUID: 3247a0ca6b2fc344da05171c16f44c65
+    m_Address: vmap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 68aa51c4ee48eeb40a80d7e90439ebae, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6c5a85ab39ce72d4fbc2551133d6e8b6, type: 2}
